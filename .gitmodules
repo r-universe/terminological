@@ -7,11 +7,11 @@
 	path = rmaven
 	url = https://github.com/terminological/rmaven
 	shallow = true
-	branch = *release
+	branch = 0.1.1
 	registered = true
 [submodule "dtrackr"]
 	path = dtrackr
 	url = https://github.com/terminological/dtrackr
 	shallow = true
-	branch = *release
+	branch = 0.2.4
 	registered = true

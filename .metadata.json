@@ -1,0 +1,11 @@
+[
+  {
+    "package": "rmaven",
+    "releasetag": true
+  },
+  {
+    "package": "dtrackr",
+    "oncran": false,
+    "releasetag": true
+  }
+]

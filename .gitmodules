@@ -1,5 +1,17 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/terminological/universe
 	shallow = true
 	branch = HEAD
+[submodule "rmaven"]
+	path = rmaven
+	url = https://github.com/terminological/rmaven
+	shallow = true
+	branch = *release
+	registered = true
+[submodule "dtrackr"]
+	path = dtrackr
+	url = https://github.com/terminological/dtrackr
+	shallow = true
+	branch = *release
+	registered = true

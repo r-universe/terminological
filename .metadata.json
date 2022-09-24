@@ -7,5 +7,9 @@
     "package": "dtrackr",
     "oncran": false,
     "releasetag": true
+  },
+  {
+    "package": "html2pdfr",
+    "releasetag": true
   }
 ]

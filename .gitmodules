@@ -15,3 +15,9 @@
 	shallow = true
 	branch = 0.2.4
 	registered = true
+[submodule "html2pdfr"]
+	path = html2pdfr
+	url = https://github.com/terminological/html2pdfr
+	shallow = true
+	branch = *release
+	registered = true

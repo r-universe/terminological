@@ -19,5 +19,5 @@
 	path = html2pdfr
 	url = https://github.com/terminological/html2pdfr
 	shallow = true
-	branch = *release
+	branch = 0.4.2
 	registered = true

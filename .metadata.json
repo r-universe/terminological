@@ -11,5 +11,17 @@
   {
     "package": "html2pdfr",
     "releasetag": true
+  },
+  {
+    "package": "ggrrr",
+    "releasetag": true
+  },
+  {
+    "package": "testRapi",
+    "releasetag": true
+  },
+  {
+    "package": "roogledocs",
+    "releasetag": true
   }
 ]

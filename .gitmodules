@@ -21,3 +21,21 @@
 	shallow = true
 	branch = 0.4.2
 	registered = true
+[submodule "ggrrr"]
+	path = ggrrr
+	url = https://github.com/terminological/ggrrr
+	shallow = true
+	branch = *release
+	registered = true
+[submodule "testRapi"]
+	path = testRapi
+	url = https://github.com/terminological/r6-generator-docs
+	shallow = true
+	branch = *release
+	registered = true
+[submodule "roogledocs"]
+	path = roogledocs
+	url = https://github.com/terminological/roogledocs
+	shallow = true
+	branch = *release
+	registered = true

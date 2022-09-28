@@ -43,5 +43,5 @@
 	path = arear
 	url = https://github.com/terminological/arear
 	shallow = true
-	branch = *release
+	branch = 0.1.0
 	registered = true

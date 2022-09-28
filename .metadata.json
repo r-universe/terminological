@@ -23,5 +23,9 @@
   {
     "package": "roogledocs",
     "releasetag": true
+  },
+  {
+    "package": "arear",
+    "releasetag": true
   }
 ]

@@ -19,7 +19,7 @@
 	path = html2pdfr
 	url = https://github.com/terminological/html2pdfr
 	shallow = true
-	branch = 0.4.2
+	branch = 0.4.3
 	registered = true
 [submodule "ggrrr"]
 	path = ggrrr

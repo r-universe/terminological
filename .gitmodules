@@ -37,7 +37,7 @@
 	path = roogledocs
 	url = https://github.com/terminological/roogledocs
 	shallow = true
-	branch = 0.1.0
+	branch = 0.2.0
 	registered = true
 [submodule "arear"]
 	path = arear

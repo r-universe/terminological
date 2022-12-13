@@ -13,7 +13,7 @@
 	path = dtrackr
 	url = https://github.com/terminological/dtrackr
 	shallow = true
-	branch = 0.2.5-cran-submission
+	branch = 0.2.5-joss
 	registered = true
 [submodule "html2pdfr"]
 	path = html2pdfr

@@ -5,7 +5,6 @@
   },
   {
     "package": "dtrackr",
-    "oncran": false,
     "releasetag": true
   },
   {

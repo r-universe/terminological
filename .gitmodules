@@ -1,47 +1,32 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/terminological/universe
-	shallow = true
 	branch = HEAD
-[submodule "rmaven"]
-	path = rmaven
-	url = https://github.com/terminological/rmaven
-	shallow = true
-	branch = 0.1.2
-	registered = true
-[submodule "dtrackr"]
-	path = dtrackr
-	url = https://github.com/terminological/dtrackr
-	shallow = true
-	branch = 0.4.3
-	registered = true
-[submodule "html2pdfr"]
-	path = html2pdfr
-	url = https://github.com/terminological/html2pdfr
-	shallow = true
-	branch = 0.4.3
-	registered = true
-[submodule "ggrrr"]
-	path = ggrrr
-	url = https://github.com/terminological/ggrrr
-	shallow = true
-	branch = 0.0.0.9016
-	registered = true
-[submodule "testRapi"]
-	path = testRapi
-	url = https://github.com/terminological/r6-generator-docs
-	shallow = true
-	branch = 0.5.6
-	registered = true
-[submodule "roogledocs"]
-	path = roogledocs
-	url = https://github.com/terminological/roogledocs
-	shallow = true
-	branch = 0.2.0
-	registered = true
 [submodule "arear"]
 	path = arear
 	url = https://github.com/terminological/arear
-	shallow = true
 	branch = 0.1.0
-	registered = true
+[submodule "dtrackr"]
+	path = dtrackr
+	url = https://github.com/terminological/dtrackr
+	branch = 0.4.3
+[submodule "ggrrr"]
+	path = ggrrr
+	url = https://github.com/terminological/ggrrr
+	branch = 0.0.0.9016
+[submodule "html2pdfr"]
+	path = html2pdfr
+	url = https://github.com/terminological/html2pdfr
+	branch = 0.4.3
+[submodule "rmaven"]
+	path = rmaven
+	url = https://github.com/terminological/rmaven
+	branch = 0.1.2
+[submodule "roogledocs"]
+	path = roogledocs
+	url = https://github.com/terminological/roogledocs
+	branch = 0.2.0
+[submodule "testRapi"]
+	path = testRapi
+	url = https://github.com/terminological/r6-generator-docs
+	branch = 0.5.6

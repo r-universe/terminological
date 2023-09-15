@@ -21,7 +21,7 @@
 [submodule "pkgtools"]
 	path = pkgtools
 	url = https://github.com/terminological/pkgtools
-	branch = *release
+	branch = 0.0.0.9024
 [submodule "rmaven"]
 	path = rmaven
 	url = https://github.com/terminological/rmaven

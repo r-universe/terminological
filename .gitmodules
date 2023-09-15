@@ -18,6 +18,10 @@
 	path = html2pdfr
 	url = https://github.com/terminological/html2pdfr
 	branch = 0.4.3
+[submodule "pkgtools"]
+	path = pkgtools
+	url = https://github.com/terminological/pkgtools
+	branch = *release
 [submodule "rmaven"]
 	path = rmaven
 	url = https://github.com/terminological/rmaven

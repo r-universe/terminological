@@ -26,5 +26,9 @@
   {
     "package": "arear",
     "releasetag": true
+  },
+  {
+    "package": "pkgtools",
+    "releasetag": true
   }
 ]

@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/terminological/universe
+	url = https://github.com/terminological/terminological.r-universe.dev
 	branch = HEAD
 [submodule "arear"]
 	path = arear

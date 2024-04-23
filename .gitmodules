@@ -5,7 +5,7 @@
 [submodule "arear"]
 	path = arear
 	url = https://github.com/terminological/arear
-	branch = 0.1.0
+	branch = 0.1.1
 [submodule "dtrackr"]
 	path = dtrackr
 	url = https://github.com/terminological/dtrackr

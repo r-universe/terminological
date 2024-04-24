@@ -12,6 +12,10 @@
     "releasetag": true
   },
   {
+    "package": "jplantuml4r",
+    "releasetag": true
+  },
+  {
     "package": "ggrrr",
     "releasetag": true
   },

@@ -17,11 +17,11 @@
 [submodule "html2pdfr"]
 	path = html2pdfr
 	url = https://github.com/terminological/html2pdfr
-	branch = 0.4.4
+	branch = 0.4.5
 [submodule "jplantuml4r"]
 	path = jplantuml4r
 	url = https://github.com/terminological/jplantuml4r
-	branch = *release
+	branch = 0.0.0.9000
 [submodule "pkgtools"]
 	path = pkgtools
 	url = https://github.com/terminological/pkgtools

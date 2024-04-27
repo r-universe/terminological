@@ -33,7 +33,7 @@
 [submodule "roogledocs"]
 	path = roogledocs
 	url = https://github.com/terminological/roogledocs
-	branch = 0.4.0
+	branch = 0.5.0
 [submodule "testRapi"]
 	path = testRapi
 	url = https://github.com/terminological/r6-generator-docs

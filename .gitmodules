@@ -37,4 +37,4 @@
 [submodule "testRapi"]
 	path = testRapi
 	url = https://github.com/terminological/r6-generator-docs
-	branch = 0.5.6
+	branch = 1.1.0

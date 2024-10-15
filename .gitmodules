@@ -9,7 +9,7 @@
 [submodule "dtrackr"]
 	path = dtrackr
 	url = https://github.com/terminological/dtrackr
-	branch = 0.4.4
+	branch = 0.4.5
 [submodule "ggrrr"]
 	path = ggrrr
 	url = https://github.com/terminological/ggrrr

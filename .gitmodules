@@ -29,7 +29,7 @@
 [submodule "rmaven"]
 	path = rmaven
 	url = https://github.com/terminological/rmaven
-	branch = 0.1.3
+	branch = 0.1.4
 [submodule "roogledocs"]
 	path = roogledocs
 	url = https://github.com/terminological/roogledocs
